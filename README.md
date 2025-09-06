@@ -1,1 +1,3 @@
 # Fake-News-Classification
+
+This project is an end-to-end Fake News Detection system built with Python, NLP, and Machine Learning. The system preprocesses news articles using text cleaning, tokenization, stopword removal, and lemmatization, followed by TF-IDF vectorization to extract meaningful features.The evaluation is performed using accuracy, confusion matrices, and classification reports to analyze model performance. The project highlights how textual data can be transformed into numerical features for effective classification, and provides a reproducible pipeline that can be adapted for other text classification tasks in the real world.
